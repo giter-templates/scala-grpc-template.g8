@@ -1,0 +1,1 @@
+# scala-grpc-template.g8
